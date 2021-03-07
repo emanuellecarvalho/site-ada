@@ -6,7 +6,7 @@
 
 ![](screenshots/siteHeader.png)
 
-## Linguagens utilizadas:
+## Construído com:
 
 * HTML;
 * CSS;
